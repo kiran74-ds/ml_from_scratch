@@ -6,7 +6,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was Interested in solving leetcode python interview questions :
+For this project, I was Interested in implementing Machine Learning Algorithms from scratch :
 
 1. Linear Regression
 2. Logistic Regression
